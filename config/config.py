@@ -13,4 +13,4 @@ CLEAN_PATH = '../clean/'
 
 # Years range
 START_YEAR = 2001
-END_YEAR = 2024
+END_YEAR = 2025
